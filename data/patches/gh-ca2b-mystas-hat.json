@@ -1,0 +1,142 @@
+{
+	"id": 3717,
+	"name": "Mysta's Hat",
+	"description": "The hat of Mysta Rias, a virtual YouTuber affiliated with NIJISANJI EN. He debuted as part of its fourth wave \"Luxiem\" on December 21, 2021. As of July 2023, he has amassed over 1.1 million subscribers\n\nOn July 23, 2023, he announced that he would be retiring from the persona due to burnout, and announced his final stream on August 27. The hearts and \"BYE\" text were added after the announcement.",
+	"links": {
+		"website": [
+			"https://www.youtube.com/channel/UCIM92Ok_spNKLVB5TsgwseQ"
+		],
+		"subreddit": [
+			"Nijisanji"
+		],
+		"discord": [
+			"mysta"
+		]
+	},
+	"path": {
+		"107-256": [
+			[
+				-591,
+				-255
+			],
+			[
+				-591,
+				-258
+			],
+			[
+				-590,
+				-259
+			],
+			[
+				-589,
+				-260
+			],
+			[
+				-587,
+				-260
+			],
+			[
+				-586,
+				-259
+			],
+			[
+				-586,
+				-255
+			],
+			[
+				-586,
+				-250
+			],
+			[
+				-588,
+				-250
+			],
+			[
+				-588,
+				-248
+			],
+			[
+				-598,
+				-248
+			],
+			[
+				-598,
+				-250
+			],
+			[
+				-600,
+				-250
+			],
+			[
+				-600,
+				-253
+			],
+			[
+				-600,
+				-260
+			],
+			[
+				-586,
+				-260
+			],
+			[
+				-586,
+				-263
+			],
+			[
+				-581,
+				-263
+			],
+			[
+				-582,
+				-246
+			],
+			[
+				-586,
+				-246
+			],
+			[
+				-586,
+				-248
+			],
+			[
+				-597,
+				-248
+			],
+			[
+				-599,
+				-250
+			],
+			[
+				-600,
+				-259
+			],
+			[
+				-599,
+				-260
+			],
+			[
+				-598,
+				-261
+			],
+			[
+				-599,
+				-266
+			],
+			[
+				-587,
+				-266
+			],
+			[
+				-588,
+				-260
+			]
+		]
+	},
+	"center": {
+		"107-256": [
+			-596,
+			-263
+		]
+	}
+}
