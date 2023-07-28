@@ -1,0 +1,56 @@
+{
+	"id": 5446,
+	"name": "Pomudachi",
+	"description": "Pomudachis are the fan mascot of Nijisanji EN Vtuber, Pomu Rainpuff. They look like garlic shaped plants, but are meant to represent seeds that will eventually grow into Pomu as part of her world pomufication plan. \nIt is dressed up as popular character Naked Snake/Big Boss from the Metal Gear Franchise to show Pomu's love of the series.",
+	"links": {
+		"website": [
+			"https://www.nijisanji.jp/en",
+			"https://www.youtube.com/@PomuRainpuff"
+		],
+		"subreddit": [
+			"Nijisanji"
+		]
+	},
+	"path": {
+		"101-256": [
+			[
+				-628,
+				-249
+			],
+			[
+				-632,
+				-255
+			],
+			[
+				-631,
+				-260
+			],
+			[
+				-627,
+				-262
+			],
+			[
+				-624,
+				-263
+			],
+			[
+				-618,
+				-255
+			],
+			[
+				-623,
+				-249
+			],
+			[
+				-625,
+				-249
+			]
+		]
+	},
+	"center": {
+		"101-256": [
+			-626,
+			-256
+		]
+	}
+}
